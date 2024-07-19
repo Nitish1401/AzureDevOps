@@ -1,1 +1,2 @@
 Hi everyone
+This is the change for fileA.
